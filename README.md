@@ -1,1 +1,1 @@
-# DIP_HUST
+# Digital-Image-Processing-Basic-Experiments
